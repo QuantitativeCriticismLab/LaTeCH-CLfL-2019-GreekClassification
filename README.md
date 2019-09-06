@@ -1,5 +1,6 @@
 # Genre Classifier
 We are data mining a corpus of ancient texts to train machine learning classifiers that distinguish between different genres.
+Link to paper: https://www.aclweb.org/anthology/W19-2507/
 
 ## Setup (Instructions for Mac)
 
